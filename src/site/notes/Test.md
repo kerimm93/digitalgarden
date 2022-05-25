@@ -5,7 +5,3 @@
 # ✍ Ideen und Aufzeichnungen
 
 
-```ad-quote
-Test
-
-```
